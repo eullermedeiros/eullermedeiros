@@ -17,8 +17,7 @@ Sobre mim
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=MongoDB" />
-<img src="https://skillicons.dev/icons?i=powerbi" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
 <img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://skillicons.dev/icons?i=vscode" />
 
