@@ -1,42 +1,28 @@
-<h1 align="center">Olá! 👋 Eu sou Euller Medeiros</h1>
+<h1 align="center">Olá! Eu sou Euller Medeiros! </h1>
 
 <h3 align="center">
 
 
 ---
 
-## 🚀 Sobre mim
+Sobre mim
 
 - 🎓 Estudante de Ciência de Dados
 - 📚 Atualmente estudando Python, SQL, Pandas, NumPy, FastAPI e Machine Learning
 
 ---
 
-## 🛠 Tecnologias
+🧑‍💻​ Tecnologias
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=MongoDB" />
+<img src="https://skillicons.dev/icons?i=powerbi" />
 <img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://skillicons.dev/icons?i=vscode" />
 
 </p>
-
----
-
-## 📈 Estatísticas
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=eullermedeiros&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eullermedeiros&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 ## 📂 Projetos
 
@@ -56,11 +42,11 @@
 
 <p>
 
-<a href="SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/euller-marcos-medeiros-88bb0a279/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:eullermmedeiros@outlook.com">
 <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
